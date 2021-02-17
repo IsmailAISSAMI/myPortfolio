@@ -132,14 +132,14 @@
       {
         "title": "Sign-in and sign-up form",
         "category": "frontend with ReactJS",
-        "image": "rails-backend.PNG",
-        "url": "https://ismail-wikiapp-rails.herokuapp.com/"
+        "image": "frontend-forms.PNG",
+        "url": "https://ismail-signforms.netlify.app/"
       },
       {
         "title": "Wikipedia-clone",
         "category": "backend with Rails",
-        "image": "frontend-forms.PNG",
-        "url": "https://ismail-signforms.netlify.app/"
+        "image": "rails-backend.PNG",
+        "url": "https://ismail-wikiapp-rails.herokuapp.com/"
       },
       {
         "title": "Simple Dice Game",
