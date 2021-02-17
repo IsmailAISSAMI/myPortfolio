@@ -83,6 +83,14 @@
         "level": "90%"
       },
       {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Vue.js",
+        "level": "30%"
+      },
+      {
         "name": "PHP",
         "level": "70%"
       },
@@ -91,12 +99,8 @@
         "level": "80%"
       },
       {
-        "name": "ReactJs",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "85%"
+        "name": "JavaScript and Node JS",
+        "level": "80%"
       },
       {
         "name": "C / C+ / C# / Java / Python",
@@ -119,6 +123,18 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "whatsapp-clone",
+        "category": "frontend en ReactJS",
+        "image": "whatsapp-frontend.PNG",
+        "url": "https://ismail-whatsapp-frontend.netlify.app/"
+      },
+      {
+        "title": "Sign-in and sign-up form",
+        "category": "frontend en ReactJS",
+        "image": "frontend-forms.PNG",
+        "url": "https://ismail-signforms.netlify.app/"
+      },
       {
         "title": "Simple Dice Game",
         "category": "Jeu de dés (HTML, CSS, Javascript)",
