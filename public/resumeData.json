@@ -33,6 +33,12 @@
   "resume": {
     "education": [
       {
+        "school": "YNOV à Paris",
+        "degree": " Bachelor informatique",
+        "graduated": "2021",
+        "description": ""
+      },
+      {
         "school": "Institut des sciences et techniques des Yvelines à Paris",
         "degree": " 2ème année du Cycle Ingénieur Informatique (BAC+4)",
         "graduated": "2020",
@@ -78,11 +84,11 @@
       },
       {
         "name": "PHP",
-        "level": "85%"
+        "level": "70%"
       },
       {
         "name": " Ruby on Rails",
-        "level": "75%"
+        "level": "80%"
       },
       {
         "name": "ReactJs",
@@ -97,20 +103,16 @@
         "level": "95%"
       },
       {
-        "name": "SQL",
-        "level": "95%"
-      },
-      {
-        "name": "Oracle et MYSQL",
-        "level": "95%"
+        "name": "SQL and NoSQL",
+        "level": "85%"
       },
       {
         "name": "Git",
-        "level": "90%"
+        "level": "80%"
       },
 
       {
-        "name": "Unix et Windows",
+        "name": "Unix",
         "level": "90%"
       }
     ]
