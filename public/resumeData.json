@@ -139,7 +139,7 @@
         "title": "Wikipedia-clone",
         "category": "backend with Rails",
         "image": "rails-backend.PNG",
-        "url": "https://ismail-wikiapp-rails.herokuapp.com/"
+        "url": "https://wikipedia-dev.herokuapp.com/"
       },
       {
         "title": "Simple Dice Game",
